@@ -1,7 +1,7 @@
 {
-  "name": "lightspeedc-qiita-heroku1",
+  "name": "rsanzaih.Heroku",
   "version": "0.0.0",
-  "description": "lightspeedc-qiita-heroku1",
+  "description": "rsanzaih.Heroku",
   "main": "index.js",
   "engines": {
     "node": "6"
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "LightSpeedC/lightspeedc-qiita-heroku1"
+    "url": "rsanzaih/rsanzaih.Heroku"
   },
   "keywords": [
     "heroku"
   ],
-  "author": "LightSpeedC",
+  "author": "rsanzaih",
   "license": "MIT"
 }
